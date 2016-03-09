@@ -1,0 +1,164 @@
+<classes>
+    <class>
+        <designation>Math 1390</designation>
+        <name>College Algebra</name>
+        <edge>Math 1591</edge>
+        <edge>Csci 1470</edge>
+    </class>
+    <class>
+        <designation>Math 1591</designation>
+        <name>Calculus I</name>
+        <edge>Math 2330</edge>
+        <edge>Math 3320</edge>
+    </class>
+    <class>
+        <designation>Math 2330</designation>
+        <name>Discrete Mathematics</name>
+        <edge>Math 3320</edge>
+        <edge>Csci 3330</edge>
+        <edge>Csci 4390</edge>
+    </class>
+    <class>
+        <designation>Math 3320</designation>
+        <name>Linear Algebra</name>
+        <edge>Csci 4310</edge>
+        <edge>Csci 4350</edge>
+    </class>
+    <class>
+        <designation>Csci 1470</designation>
+        <name>Computer Science I</name>
+        <edge>Math 2330</edge>
+        <edge>Csci 1480</edge>
+    </class>
+    <class>
+        <designation>Csci 1480</designation>
+        <name>Computer Science II</name>
+        <edge>Csci 2320</edge>
+        <edge>Csci 2440</edge>
+    </class>
+    <class>
+        <designation>Csci 2320</designation>
+        <name>Data Structures</name>
+        <edge>Csci 3190</edge>
+        <edge>Csci 3330</edge>
+        <edge>Csci 3335</edge>
+        <edge>Csci 3345</edge>
+        <edge>Csci 3350</edge>
+        <edge>Csci 3360</edge>
+        <edge>Csci 3370</edge>
+        <edge>Csci 3381</edge>
+        <edge>Csci 3385</edge>
+        <edge>Csci 4310</edge>
+        <edge>Csci 4350</edge>
+        <edge>Csci 4390</edge>
+    </class>
+    <class>
+        <designation>Csci 2440</designation>
+        <name>Assembly Language and Computer Organization</name>
+        <edge>Csci 3380</edge>
+        <edge>Csci 4300</edge>
+        <edge>Csci 4340</edge>
+    </class>
+    <class>
+        <designation>Csci 3190</designation>
+        <name>Social Implications of Technology</name>
+    </class>
+    <class>
+        <designation>Csci 3330</designation>
+        <name>Algorithms</name>
+        <edge>Csci 4300</edge>
+        <edge>Csci 4315</edge>
+        <edge>Csci 4340</edge>
+        <edge>Csci 4353</edge>
+        <edge>Csci 4365</edge>
+    </class>
+    <class>
+        <designation>Csci 3335</designation>
+        <name>Networking</name>
+        <edge>Csci 4355</edge>
+    </class>
+    <class>
+        <designation>Csci 3345</designation>
+        <name>Human-Computer Interaction</name>
+    </class>
+    <class>
+        <designation>Csci 3350</designation>
+        <name>File Structures</name>
+    </class>
+    <class>
+        <designation>Csci 3360</designation>
+        <name>Database Systems</name>
+        <edge>Csci 4370</edge>
+    </class>
+    <class>
+        <designation>Csci 3370</designation>
+        <name>Principles of Programming Languages</name>
+        <edge>Csci 4320</edge>
+    </class>
+    <class>
+        <designation>Csci 3380</designation>
+        <name>Computer Architecture</name>
+    </class>
+    <class>
+        <designation>Csci 3381</designation>
+        <name>Object-Oriented Software Development with Java</name>
+        <edge>Csci 4490</edge>
+    </class>
+    <class>
+        <designation>Csci 3385</designation>
+        <name>Artificial Intelligence</name>
+    </class>
+    <class>
+        <designation>Csci 4300</designation>
+        <name>Operating Systems</name>
+        <edge>Csci 4345</edge>
+    </class>
+    <class>
+        <designation>Csci 4310</designation>
+        <name>Introduction to Scientific Computing</name>
+    </class>
+    <class>
+        <designation>Csci 4315</designation>
+        <name>Information Security</name>
+    </class>
+    <class>
+        <designation>Csci 4320</designation>
+        <name>Compiler Construction</name>
+    </class>
+    <class>
+        <designation>Csci 4340</designation>
+        <name>Introduction to Parallel Programming</name>
+    </class>
+    <class>
+        <designation>Csci 4345</designation>
+        <name>Introduction to Real-Time System Concepts and Implementation</name>
+    </class>
+    <class>
+        <designation>Csci 4350</designation>
+        <name>Computer Graphics</name>
+    </class>
+    <class>
+        <designation>Csci 4353</designation>
+        <name>Introduction to Multimedia Computing</name>
+    </class>
+    <class>
+        <designation>Csci 4355</designation>
+        <name>Distributed Object Computing</name>
+    </class>
+    <class>
+        <designation>Csci 4365</designation>
+        <name>Web Technology</name>
+    </class>
+    <class>
+        <designation>Csci 4370</designation>
+        <name>Data Mining</name>
+    </class>
+    <class>
+        <designation>Csci 4390</designation>
+        <name>Theory of Computation</name>
+    </class>
+    <class>
+        <designation>Csci 4490</designation>
+        <name>Software Engineering</name>
+    </class>
+</classes>

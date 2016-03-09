@@ -1,0 +1,12 @@
+Smith, Louis
+Math 87 88 92 85 93 91 89 90
+Thomas, Kelsey
+English 54 78 82 80
+Stevens, Terry
+History 86 80 88
+Jefferson, Alex
+Math 78 86 85 79 84 83 79 82
+Richards, Bailey
+English 56 64 69 68
+Williams, Carl
+History 98 97 99

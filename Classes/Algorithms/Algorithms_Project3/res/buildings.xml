@@ -1,0 +1,348 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<buildings>
+    <building>
+        <name>Math-Computer Science</name>
+        <edge>
+            <name>Lewis Science Center</name>
+            <distance>150</distance>
+        </edge>
+        <edge>
+            <name>Burdick</name>
+            <distance>30</distance>
+        </edge>
+        <edge>
+            <name>Torreyson Library</name>
+            <distance>40</distance>
+        </edge>
+        <edge>
+            <name>Prince Center</name>
+            <distance>80</distance>
+        </edge>
+    </building>
+    <building>
+        <name>Lewis Science Center</name>
+        <edge>
+            <name>College Square</name>
+            <distance>200</distance>
+        </edge>
+        <edge>
+            <name>Math-Computer Science</name>
+            <distance>150</distance>
+        </edge>
+        <edge>
+            <name>Speech Language Hearing</name>
+            <distance>250</distance>
+        </edge>
+    </building>
+    <building>
+        <name>College Square</name>
+        <edge>
+            <name>Prince Center</name>
+            <distance>300</distance>
+        </edge>
+        <edge>
+            <name>Lewis Science Center</name>
+            <distance>200</distance>
+        </edge>
+    </building>
+    <building>
+        <name>Speech Language Hearing</name>
+        <edge>
+            <name>Lewis Science Center</name>
+            <distance>250</distance>
+        </edge>
+        <edge>
+            <name>Burdick</name>
+            <distance>100</distance>
+        </edge>
+        <edge>
+            <name>Maintenance College</name>
+            <distance>120</distance>
+        </edge>
+    </building>
+    <building>
+        <name>Burdick</name>
+        <edge>
+            <name>Math-Computer Science</name>
+            <distance>30</distance>
+        </edge>
+        <edge>
+            <name>Torreyson Library</name>
+            <distance>80</distance>
+        </edge>
+        <edge>
+            <name>McAlister</name>
+            <distance>200</distance>
+        </edge>
+        <edge>
+            <name>Maintenance College</name>
+            <distance>300</distance>
+        </edge>
+        <edge>
+            <name>Speech Language Hearing</name>
+            <distance>100</distance>
+        </edge>
+    </building>
+    <building>
+        <name>Maintenance College</name>
+        <edge>
+            <name>Burdick</name>
+            <distance>300</distance>
+        </edge>
+        <edge>
+            <name>Speech Language Hearing</name>
+            <distance>120</distance>
+        </edge>
+        <edge>
+            <name>Oak Tree Apt.</name>
+            <distance>160</distance>
+        </edge>
+        <edge>
+            <name>McAlister</name>
+            <distance>150</distance>
+        </edge>
+        <edge>
+            <name>Wingo</name>
+            <distance>100</distance>
+        </edge>
+        <edge>
+            <name>Buisness Building</name>
+            <distance>150</distance>
+        </edge>
+    </building>
+    <building>
+        <name>Torreyson Library</name>
+        <edge>
+            <name>Prince Center</name>
+            <distance>30</distance>
+        </edge>
+        <edge>
+            <name>Math-Computer Science</name>
+            <distance>40</distance>
+        </edge>
+        <edge>
+            <name>Burdick</name>
+            <distance>80</distance>
+        </edge>
+        <edge>
+            <name>Old Main</name>
+            <distance>30</distance>
+        </edge>
+    </building>
+    <building>
+        <name>Prince Center</name>
+        <edge>
+            <name>College Square</name>
+            <distance>300</distance>
+        </edge>
+        <edge>
+            <name>Math-Computer Science</name>
+            <distance>80</distance>
+        </edge>
+        <edge>
+            <name>Torreyson Library</name>
+            <distance>30</distance>
+        </edge>
+        <edge>
+            <name>Police Dept.</name>
+            <distance>100</distance>
+        </edge>
+    </building>
+    <building>
+        <name>Old Main</name>
+        <edge>
+            <name>Torreyson Library</name>
+            <distance>30</distance>
+        </edge>
+        <edge>
+            <name>Police Dept.</name>
+            <distance>200</distance>
+        </edge>
+        <edge>
+            <name>Fine Art</name>
+            <distance>90</distance>
+        </edge>
+        <edge>
+            <name>McAlister</name>
+            <distance>100</distance>
+        </edge>
+    </building>
+    <building>
+        <name>Police Dept.</name>
+        <edge>
+            <name>Prince Center</name>
+            <distance>100</distance>
+        </edge>
+        <edge>
+            <name>Old Main</name>
+            <distance>200</distance>
+        </edge>
+        <edge>
+            <name>Fine Art</name>
+            <distance>50</distance>
+        </edge>
+        <edge>
+            <name>Student Health Center</name>
+            <distance>100</distance>
+        </edge>
+    </building>
+    <building>
+        <name>Fine Art</name>
+        <edge>
+            <name>Police Dept.</name>
+            <distance>50</distance>
+        </edge>
+        <edge>
+            <name>Old Main</name>
+            <distance>90</distance>
+        </edge>
+        <edge>
+            <name>McAlister</name>
+            <distance>180</distance>
+        </edge>
+        <edge>
+            <name>Student Center</name>
+            <distance>80</distance>
+        </edge>
+    </building>
+    <building>
+        <name>McAlister</name>
+        <edge>
+            <name>Old Main</name>
+            <distance>100</distance>
+        </edge>
+        <edge>
+            <name>Burdick</name>
+            <distance>200</distance>
+        </edge>
+        <edge>
+            <name>Maintenance College</name>
+            <distance>150</distance>
+        </edge>
+        <edge>
+            <name>Wingo</name>
+            <distance>50</distance>
+        </edge>
+        <edge>
+            <name>Student Center</name>
+            <distance>100</distance>
+        </edge>
+    </building>
+    <building>
+        <name>Wingo</name>
+        <edge>
+            <name>McAlister</name>
+            <distance>50</distance>
+        </edge>
+        <edge>
+            <name>Maintenance College</name>
+            <distance>100</distance>
+        </edge>
+        <edge>
+            <name>Buisness Building</name>
+            <distance>50</distance>
+        </edge>
+        <edge>
+            <name>Student Center</name>
+            <distance>100</distance>
+        </edge>
+    </building>
+    <building>
+        <name>Buisness Building</name>
+        <edge>
+            <name>Student Center</name>
+            <distance>110</distance>
+        </edge>
+        <edge>
+            <name>Wingo</name>
+            <distance>50</distance>
+        </edge>
+        <edge>
+            <name>Oak Tree Apt.</name>
+            <distance>30</distance>
+        </edge>
+        <edge>
+            <name>Brewer-Hegeman</name>
+            <distance>20</distance>
+        </edge>
+    </building>
+    <building>
+        <name>Student Center</name>
+        <edge>
+            <name>Fine Art</name>
+            <distance>80</distance>
+        </edge>
+        <edge>
+            <name>Student Health Center</name>
+            <distance>50</distance>
+        </edge>
+        <edge>
+            <name>Buisness Building</name>
+            <distance>110</distance>
+        </edge>
+        <edge>
+            <name>Wingo</name>
+            <distance>100</distance>
+        </edge>
+        <edge>
+            <name>McAlister</name>
+            <distance>100</distance>
+        </edge>
+    </building>
+    <building>
+        <name>Student Health Center</name>
+        <edge>
+            <name>Police Dept.</name>
+            <distance>100</distance>
+        </edge>
+        <edge>
+            <name>Student Center</name>
+            <distance>50</distance>
+        </edge>
+        <edge>
+            <name>Brewer-Hegeman</name>
+            <distance>200</distance>
+        </edge>
+    </building>
+    <building>
+        <name>Oak Tree Apt.</name>
+        <edge>
+            <name>Maintenance College</name>
+            <distance>160</distance>
+        </edge>
+        <edge>
+            <name>Buisness Building</name>
+            <distance>30</distance>
+        </edge>
+        <edge>
+            <name>Brewer-Hegeman</name>
+            <distance>40</distance>
+        </edge>
+    </building>
+    <building>
+        <name>Brewer-Hegeman</name>
+        <edge>
+            <name>Student Health Center</name>
+            <distance>200</distance>
+        </edge>
+        <edge>
+            <name>Buisness Building</name>
+            <distance>20</distance>
+        </edge>
+        <edge>
+            <name>Oak Tree Apt.</name>
+            <distance>40</distance>
+        </edge>
+        <edge>
+            <name>Bear Village Apt.</name>
+            <distance>350</distance>
+        </edge>
+    </building>
+    <building>
+        <name>Bear Village Apt.</name>
+        <edge>
+            <name>Brewer-Hegeman</name>
+            <distance>350</distance>
+        </edge>
+    </building>
+</buildings>

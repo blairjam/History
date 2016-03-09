@@ -1,0 +1,12 @@
+Toyota     Sienna     Blue    4  5dr.
+GMC        Sierra     Red     4  pickup
+Mazda      Miatta     White   4  2dr.
+BMW        R1200RS    Black   2  1200cc
+Volvo      VNL780     Brown  10  semi
+Honda      CBR1000RR  Blue    2  999cc
+BMW        i8         Silver  4  2dr.
+Honda      Civic      White   4  4dr.
+Ford       F150       Blue    4  pickup
+Isuzu      NRR        White   6  box
+Chevrolet  Silverado  Black   6  pickup
+Yamaha     Raider-S   Blue    2  1854cc    

@@ -1,0 +1,5 @@
+this is a test
+of how many characters
+my function will read in.
+hopefully the avatar can ride these 
+gross bug things out of this canyonZ
